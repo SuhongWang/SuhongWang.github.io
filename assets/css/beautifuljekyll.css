@@ -99,7 +99,7 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 100%;
+  max-width: 500%;
 }
 
 .linked-section {
@@ -325,7 +325,7 @@ img {
 }
 
 .navbar-custom .avatar-container .avatar-img-border {
-  width: 100%;
+  width: 500%;
   margin-left: -50%;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
