@@ -4,4 +4,4 @@ title: Education
 <!-- subtitle: Each post also has a subtitle -->
 ---
 
-* <br/>Bachelor's Degree in Communication Engineering (09/2013 - 07/2017) </br> Yingcai Honors College, University of Electronic Science and Technology of China (UESTC)
+* Bachelor's Degree in Communication Engineering (09/2013 - 07/2017) </br> Yingcai Honors College, University of Electronic Science and Technology of China (UESTC)
