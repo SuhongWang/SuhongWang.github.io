@@ -99,7 +99,7 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 200%;
+  max-width: 100%;
 }
 
 .linked-section {
@@ -325,19 +325,19 @@ img {
 }
 
 .navbar-custom .avatar-container .avatar-img-border {
-  width: 200%;
-  margin-left: -100%;
+  width: 100%;
+  margin-left: -50%;
   {% unless site.round-avatar == false %}
-    border-radius: 100%;
+    border-radius: 50%;
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
     -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 200%;
+  width: 100%;
   {% unless site.round-avatar == false %}
-    border-radius: 100%;
+    border-radius: 50%;
   {% endunless %}
   display: block;
 }
